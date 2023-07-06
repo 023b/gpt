@@ -1,0 +1,4 @@
+.venv/
+model_output/
+__pycache__/
+logs/

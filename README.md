@@ -82,6 +82,4 @@ Parameters:
 - Add data augmentation to improve model performance with minimal data
 - Implement quantization for even better performance on low-resource hardware
 
-## License
 
-MIT License
